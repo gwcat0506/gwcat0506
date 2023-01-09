@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-<a href="[https://bestlucky0506.tistory.com]"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-<a href="[gwcat0506@gmail.com]"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://bestlucky0506.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="gwcat0506@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 
 ![header](https://capsule-render.vercel.app/api?%&height=350&type=waving&color=auto&text=welcome!&desc=GounChoi's%20GitHub%20Profile)
