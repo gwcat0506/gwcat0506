@@ -25,4 +25,10 @@
 
 <img src="https://img.shields.io/badge/java-F67909?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"> <img src="https://img.shields.io/badge/figma-F8DC75?style=for-the-badge&logo=figma&logoColor=black"> 
   
+  
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gwcat0506)](https://solved.ac/gwcat0506/)
+  
 </div>
+
+
