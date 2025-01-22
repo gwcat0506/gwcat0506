@@ -2,16 +2,6 @@
 
 ### Hi there 👋
 
-<a href="https://bestlucky0506.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-<a href="gwcat0506@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-
-
-![header](https://capsule-render.vercel.app/api?%&height=350&type=waving&color=auto&text=welcome!&desc=GounChoi's%20GitHub%20Profile)
-
-
-
-
-
 ### ⚒ Platforms & Languages ⚒
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
